@@ -1,0 +1,14 @@
+E:\Codegym\c# start\tinhdientichhcn\bin\Debug\net8.0\tinhdientichhcn.exe
+E:\Codegym\c# start\tinhdientichhcn\bin\Debug\net8.0\tinhdientichhcn.deps.json
+E:\Codegym\c# start\tinhdientichhcn\bin\Debug\net8.0\tinhdientichhcn.runtimeconfig.json
+E:\Codegym\c# start\tinhdientichhcn\bin\Debug\net8.0\tinhdientichhcn.dll
+E:\Codegym\c# start\tinhdientichhcn\bin\Debug\net8.0\tinhdientichhcn.pdb
+E:\Codegym\c# start\tinhdientichhcn\obj\Debug\net8.0\tinhdientichhcn.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codegym\c# start\tinhdientichhcn\obj\Debug\net8.0\tinhdientichhcn.AssemblyInfoInputs.cache
+E:\Codegym\c# start\tinhdientichhcn\obj\Debug\net8.0\tinhdientichhcn.AssemblyInfo.cs
+E:\Codegym\c# start\tinhdientichhcn\obj\Debug\net8.0\tinhdientichhcn.csproj.CoreCompileInputs.cache
+E:\Codegym\c# start\tinhdientichhcn\obj\Debug\net8.0\tinhdientichhcn.dll
+E:\Codegym\c# start\tinhdientichhcn\obj\Debug\net8.0\refint\tinhdientichhcn.dll
+E:\Codegym\c# start\tinhdientichhcn\obj\Debug\net8.0\tinhdientichhcn.pdb
+E:\Codegym\c# start\tinhdientichhcn\obj\Debug\net8.0\tinhdientichhcn.genruntimeconfig.cache
+E:\Codegym\c# start\tinhdientichhcn\obj\Debug\net8.0\ref\tinhdientichhcn.dll
